@@ -1,35 +1,6 @@
 [
   {
     "id": "",
-    "name": "Vorterix",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Argentina"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720855432/ei/KNeRZrK_MpGAir4P_-aFgAk/ip/172.183.37.80/id/2jDLXupK730.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAUo_aYwJi9PSkRZLlufK3cV4FwZifRHpTL6J6z9RQ3rbxnGoZH99qire-aQ/vprv/1/playlist_type/DVR/mh/zb/mm/44/mn/sn-vgqsrnl6/ms/lva/mv/u/mvi/2/pl/19/dover/11/pacing/0/keepalive/yes/mt/1720833262/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgMz3f9a7DE_c1HjGo0UYe7TnqFXi-fsQc6eiarG8p8NACIQDQTdFdtvtO8Cm6inT4Zo_8Fnt0W369wwETqxg4UY1N7w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgAw1sDVXMLcdbi8wrReVP7R2ieECymA_FwVTicODIZvcCICSHbZn9GveUTFcaUtIvtOzEhJkXKy1fueNlINLDuDgW/playlist/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
-  },
-  {
-    "id": "",
     "name": "America TV",
     "alt_names": [
       ""
@@ -54,7 +25,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720855434/ei/KteRZtb-Asad2_gPjfSrkA4/ip/172.183.37.80/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAXu82mASdtLuBWjG_SFh0Z-Mg4IFZPnrplTbzlvZgYx17gcXjGLVNNvf5k4/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-vgqsrnzz/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1720833262/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhALP_x0MJlIfV3_B_ftTi4ZVV8Jz07zMCqp-V_QgwvZALAiEAnV08NpNhmdIU5TpuMysdGV-1sz4zQu29Zi7eHAbgzhc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgcHAeOpITrQWD1xnAGWCPGgo6ubA2gGTqtUwPRS8BAI8CIQCSN9OgiaMPxjr5RY3mWusGI9RkgRkZCY8DUylw6Y_K4Q%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720862419/ei/c_KRZvXsHI2HsfIPvKqM8A4/ip/52.238.24.178/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-o097znz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAW1mpq9vMzQaxaAQjXnKcbeoxHkE7OrdIFXFK6fvDITgJzwx-FayxXl7cto/vprv/1/playlist_type/DVR/initcwndbps/14833750/mh/sM/mm/44/mn/sn-o097znz7/ms/lva/mv/m/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1720840365/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIgIrDwtbtKAdGYrr52AYTvVF0Wfu-Z9mkPjBpddFdAfwMCIQDM0gfFHQ_vCI96M4F2YmS8WxmgjmAxAFrOr0054MxjUg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgCeya3zWNxYgQ-2mp0DwC_DxW6UCjybAihFOOqlCU6T8CIFeVbsRECoyXzJOyiRL6SqmO_IZ3YlXJBG0kOKonQ4-j/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   },
   {
@@ -83,7 +54,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720855434/ei/KteRZr-NMv7iir4PoZ2vwAs/ip/172.183.37.80/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrn6e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAYOe1-L2-Ai92dzh2PebtQ_zPsbEqhUL0XnEcR-XWHtxctENTxJ2wIZ9yzA/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-vgqsrn6e/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/mt/1720833262/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgMfru958Kg7PWunhfaVupfG9Osph_J1RPhWkCcQpdTtgCIQDqXY_Qof35rzrG97mQdXWi_C9zXvAH2kFkH3bdITPpLg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAI1oYiDmifGi9CyW0L8hhjaasD7DhT6a6CxOe3GPzCeQAiEA0xY6tVxHXIPMaNAijB5eHH5pvP1Fbbh1wOcSHdzeyaw%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720862420/ei/dPKRZo_PMc2UsfIP0NiKuAM/ip/52.238.24.178/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-o097znsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bASr-bSUrT8q5TPi2xLVcWnIDPnivPHwA8Dl7qZW4ozzv8XCaFNrv_4ZxU90/vprv/1/playlist_type/DVR/initcwndbps/13006250/mh/gu/mm/44/mn/sn-o097znsr/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1720840623/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgUD5bbdZfLmoJHkE9jtJvXM99evM9lhJi4zwP4892Tg0CIQCleuIfX7RM9b8_PvDIimkVuAcCyWTa230ukkHIlnos_g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAMWtQzijlTUI38Ejwk3J5D3g-H-aT3bdYD6J7G75OslIAiAzOKpXqE1bkS9Y7otlYmosBmH-JesUQsHT-gLrgNT8RQ%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   }
 ]
